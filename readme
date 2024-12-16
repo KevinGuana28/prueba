@@ -1,0 +1,7 @@
+Backend (Node.js + Express + Socket.IO)
+Crea un proyecto con npm init -y y luego instala las dependencias necesarias:
+
+bash
+Copiar código
+npm install express socket.io body-parser
+Crea un archivo server.js:
