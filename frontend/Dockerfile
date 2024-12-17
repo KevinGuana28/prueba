@@ -1,4 +1,3 @@
-# Construir la aplicación
 FROM node:18 as build
 WORKDIR /app
 COPY package*.json ./
